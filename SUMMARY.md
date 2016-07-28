@@ -2,7 +2,7 @@ This is just a copy from something else to have a start for the table of content
 
 ### Summary
 
-* [Booting](Booting/README.md)
+* [Booting](README.md)
     * [From bootloader to kernel](Booting/linux-bootstrap-1.md)
     * [First steps in the kernel setup code](Booting/linux-bootstrap-2.md)
     * [Video mode initialization and transition to protected mode](Booting/linux-bootstrap-3.md)
